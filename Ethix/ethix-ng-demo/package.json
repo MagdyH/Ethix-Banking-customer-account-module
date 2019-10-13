@@ -1,0 +1,41 @@
+{
+  "name": "ethix-ng",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/jquery": "^3.3.1",
+    "@types/react-redux": "^5.0.15",
+    "@types/react-router-dom": "^4.2.6",
+    "@types/redux": "^3.6.0",
+    "@types/redux-thunk": "^2.1.0",
+    "axios": "^0.18.0",
+    "bignumber.js": "^6.0.0",
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "moment": "^2.22.0",
+    "popper.js": "^1.12.3",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-scripts-ts": "2.14.0",
+    "redux": "^3.7.2",
+    "redux-axios-middleware": "^4.0.0",
+    "sweetalert": "^2.1.0",
+    "thunk": "0.0.1",
+    "ts-money": "^0.4.4"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/jest": "^22.2.2",
+    "@types/node": "^9.6.2",
+    "@types/react": "^16.3.5",
+    "@types/react-dom": "^16.0.4",
+    "typescript": "^2.8.1"
+  }
+}

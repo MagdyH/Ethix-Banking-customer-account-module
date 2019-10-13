@@ -1,0 +1,11 @@
+D:\ITS\Ethix-NG\Ethix-NG-API\Ethix-NG-API\bin\Debug\netcoreapp2.0\Ethix-NG-API.deps.json
+D:\ITS\Ethix-NG\Ethix-NG-API\Ethix-NG-API\bin\Debug\netcoreapp2.0\Ethix-NG-API.runtimeconfig.json
+D:\ITS\Ethix-NG\Ethix-NG-API\Ethix-NG-API\bin\Debug\netcoreapp2.0\Ethix-NG-API.runtimeconfig.dev.json
+D:\ITS\Ethix-NG\Ethix-NG-API\Ethix-NG-API\bin\Debug\netcoreapp2.0\Ethix-NG-API.dll
+D:\ITS\Ethix-NG\Ethix-NG-API\Ethix-NG-API\bin\Debug\netcoreapp2.0\Ethix-NG-API.pdb
+D:\ITS\Ethix-NG\Ethix-NG-API\Ethix-NG-API\obj\Debug\netcoreapp2.0\Ethix-NG-API.csproj.CoreCompileInputs.cache
+D:\ITS\Ethix-NG\Ethix-NG-API\Ethix-NG-API\obj\Debug\netcoreapp2.0\Ethix-NG-API.AssemblyInfoInputs.cache
+D:\ITS\Ethix-NG\Ethix-NG-API\Ethix-NG-API\obj\Debug\netcoreapp2.0\Ethix-NG-API.AssemblyInfo.cs
+D:\ITS\Ethix-NG\Ethix-NG-API\Ethix-NG-API\obj\Debug\netcoreapp2.0\Ethix-NG-API.dll
+D:\ITS\Ethix-NG\Ethix-NG-API\Ethix-NG-API\obj\Debug\netcoreapp2.0\Ethix-NG-API.pdb
+D:\ITS\Ethix-NG\Ethix-NG-API\Ethix-NG-API\obj\Debug\netcoreapp2.0\Ethix-NG-API.csprojResolveAssemblyReference.cache
